@@ -1,0 +1,2 @@
+Comment deployer l'application sur Heroku:(commandes a rentrer dans la console) npm install heroku -g, heroku create -a <app-name-here>, heroku login,  hroku git remote -a <app-name-here>,  git push heroku master
+L'application peut aussi etre deployer de maniere locale via XXAMP 
